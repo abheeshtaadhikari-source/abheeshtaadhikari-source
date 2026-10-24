@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abheeshta Adhikari
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZndoM2o3ZWF4bzhrMG1lanhtaXFyNGZpN3p6emk1NnBwMHo3bG5iNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="150px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZndoM2o3ZWF4bzhrMG1lanhtaXFyNGZpN3p6emk1NnBwMHo3bG5iNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="400px" />
 </p>
 
 ---
@@ -44,7 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeshtaadhikari-source&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abheeshtaadhikari-source&repo=abheeshtaadhikari-source&theme=radical" alt="Pinned Repo Card" />
 </p>
 
 <p align="center">
