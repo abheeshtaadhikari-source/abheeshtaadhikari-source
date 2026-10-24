@@ -48,4 +48,4 @@
 
 * **Pronoun:** She/her
 * **Fun Fact:** My brain runs an endless `while(true)` loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.
-* **Quote:** *“The first principle is that you must not fool yourself—and you are the easiest person to fool.”*
+* **Quote:** *“The first principle is that you must not fool yourself—and you are the easiest person to fool.”* — **Richard P. Feynman**
