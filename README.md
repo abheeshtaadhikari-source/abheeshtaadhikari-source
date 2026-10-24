@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abheeshta Adhikari
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abheeshta Adhikari
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZndoM2o3ZWF4bzhrMG1lanhtaXFyNGZpN3p6emk1NnBwMHo3bG5iNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="400px" />
 </p>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🎲 Scratch It
+### 🎲 Scratch It!
 
 <table>
   <tr>
@@ -64,7 +64,7 @@
     </td>
     <td>
       <ul>
-        <li><strong>Pronoun:</strong> She/her</li>
+        <li><strong>Pronoun:</strong> **(She/her)**</li>
         <li><strong>Fun Fact:</strong> My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</li>
         <li><strong>Quote:</strong> <em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em> — <em>Richard P. Feynman</em></li>
       </ul>
