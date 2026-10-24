@@ -1,4 +1,8 @@
-## Hi there 👋, I'm Abheeshta Adhikari
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abheeshta Adhikari
+
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZndoM2o3ZWF4bzhrMG1lanhtaXFyNGZpN3p6emk1NnBwMHo3bG5iNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="150px" />
+</p>
 
 ---
 
@@ -39,6 +43,15 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeshtaadhikari-source&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abheeshtaadhikari-source&repo=abheeshtaadhikari-source&theme=radical" alt="Pinned Repo Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abheeshtaadhikari-source&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abheeshtaadhikari-source&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
@@ -46,6 +59,17 @@
 
 ### 🎲 Scratch It
 
-* **Pronoun:** She/her
-* **Fun Fact:** My brain runs an endless `while(true)` loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.
-* **Quote:** *“The first principle is that you must not fool yourself—and you are the easiest person to fool.”* — **Richard P. Feynman**
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwZnJvZDVzamczZTBpMHYyNTE1ZGo1c2I2MmtyZmVnYjNwdmE0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/baxh5Ctjs9pE9DWibw/giphy.gif" width="120px" alt="Scratch It Sticker" />
+    </td>
+    <td>
+      <ul>
+        <li><strong>Pronoun:</strong> She/her</li>
+        <li><strong>Fun Fact:</strong> My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</li>
+        <li><strong>Quote:</strong> <em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em> — <em>Richard P. Feynman</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
