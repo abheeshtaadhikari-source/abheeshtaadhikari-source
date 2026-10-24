@@ -5,7 +5,7 @@
 
 ---
 
-### 🌟 About Me
+### <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjh6aHRwbGZoMDVtMzQzenoydXAzZHhhd2x0NThnbXBhNnpldGUyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/An15Qrj3phOBTScvFo/giphy.gif)" width="30px"> About Me
 * 🔭 I’m currently studying **Information Science and Engineering**.
 * 💻 Passionate about Data Science, Web Development and exploring AI tools.
 * 🌱 Always learning and exploring new ways to solve algorithmic logic problems using Python.
