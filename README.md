@@ -4,7 +4,7 @@
 
 ### 🌟 About Me
 * 🔭 I’m currently studying **Information Science and Engineering**.
-* 💻 Passionate about web development, software programming, and exploring AI tools.
+* 💻 Passionate about Data Science, Web Development and exploring AI tools.
 * 🌱 Always learning and exploring new ways to solve algorithmic logic problems using Python.
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🎲 Scratch It
 
-* **Pronouns:** She/Her *(or update as preferred)*
+* **Pronouns:** (She/Her)
 * **Fun Fact:** I love solving complex puzzles and building automation scripts in my free time!
 
 ---
