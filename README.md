@@ -43,9 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeshtaadhikari-source&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abheeshtaadhikari-source&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
@@ -64,7 +62,7 @@
     </td>
     <td>
       <ul>
-        <li><strong>Pronoun:</strong> **(She/her)**</li>
+        <li><strong>Pronoun:</strong> (She/her)</li>
         <li><strong>Fun Fact:</strong> My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</li>
         <li><strong>Quote:</strong> <em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em> — <em>Richard P. Feynman</em></li>
       </ul>
