@@ -55,37 +55,40 @@
 
 ---
 
-### 🎲 Scratch It!
+## 🎲 Scratch It!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwZnJvZDVzamczZTBpMHYyNTE1ZGo1c2I2MmtyZmVnYjNwdmE0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/baxh5Ctjs9pE9DWibw" width="100px" alt="Scratch It Sticker" />
+  <img src="https://media.giphy.com/media/baxh5Ctjs9pE9DWibw/giphy.gif" width="120px" alt="Scratch It Sticker" />
 </div>
 
 <br>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <details open>
-        <summary><b>💡 Fun Fact</b></summary>
-        <br>
-        <sub>My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</sub>
-      </details>
+    <td align="left" width="50%" style="padding: 16px; border-radius: 12px; background: rgba(110, 118, 129, 0.05);">
+      <b>💡 Fun Fact</b><br><br>
+      <sub>My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</sub>
     </td>
-    <td align="center" width="50%">
-      <details open>
-        <summary><b>💬 Philosophy & Quote</b></summary>
-        <br>
-        <sub><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br>— <em>Richard P. Feynman</em></sub>
-      </details>
+    <td align="left" width="50%" style="padding: 16px; border-radius: 12px; background: rgba(110, 118, 129, 0.05);">
+      <b>💬 Philosophy & Quote</b><br><br>
+      <sub><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br>— <em>Richard P. Feynman</em></sub>
     </td>
   </tr>
 </table>
 
-<!-- Subtle CSS animation styling for modern GitHub markdown rendering -->
 <style>
-  details {
+  table {
+    border-collapse: separate;
+    border-spacing: 12px;
     animation: fadeIn 1.2s ease-in-out;
+  }
+  td {
+    border: 1px solid rgba(110, 118, 129, 0.2);
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+  td:hover {
+    transform: translateY(-3px);
+    border-color: rgba(88, 166, 255, 0.6);
   }
   @keyframes fadeIn {
     from { opacity: 0; transform: translateY(6px); }
