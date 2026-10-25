@@ -57,46 +57,21 @@
 
 ## 🎲 Scratch It!
 
-<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-top: 16px;">
-  
-  <!-- Left: Giphy Sticker -->
-  <div style="flex: 0 0 auto; text-align: center; margin: 0 auto;">
-    <img src="https://media.giphy.com/media/baxh5Ctjs9pE9DWibw/giphy.gif" width="160px" alt="Scratch It Sticker" />
-  </div>
-
-  <!-- Right: Vertical Stacked Boxes -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 14px; min-width: 280px;">    
-    <div class="animated-card" style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(110, 118, 129, 0.3); background: rgba(110, 118, 129, 0.04);">
-      <span style="font-size: 15px;"><b>💡 Fun Fact</b></span><br><br>
-      <span style="font-size: 13px; color: #8b949e;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</span>
-    </div>
-    <div class="animated-card" style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(110, 118, 129, 0.3); background: rgba(110, 118, 129, 0.04);">
-      <span style="font-size: 15px;"><b>💬 Philosophy & Quote</b></span><br><br>
-      <span style="font-size: 13px; color: #8b949e;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></span>
-    </div>
-
-  </div>
-</div>
-
-<!-- Scoped CSS Animation for smooth entrance and hover depth -->
-<style>
-  .animated-card {
-    animation: fadeInUp 1s ease-in-out;
-    transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
-  }
-  .animated-card:hover {
-    transform: translateY(-4px);
-    border-color: rgba(88, 166, 255, 0.6);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-  }
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(12px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
+<table width="100%" style="border-collapse: separate; border-spacing: 16px; margin-top: 10px;">
+  <tr>
+    <!-- Left: Giphy Sticker -->
+    <td align="center" width="160px" style="vertical-align: middle;">
+      <img src="https://media.giphy.com/media/baxh5Ctjs9pE9DWibw/giphy.gif" width="140px" alt="Scratch It Sticker" />
+    </td>
+        <td style="vertical-align: top;">
+            <div style="padding: 16px 20px; margin-bottom: 12px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.3); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+        <span style="font-size: 15px;"><b>💡 Fun Fact</b></span><br><br>
+        <span style="font-size: 13px; color: #8b949e;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</span>
+      </div>
+      <div style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.3); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+        <span style="font-size: 15px;"><b>💬 Philosophy & Quote</b></span><br><br>
+        <span style="font-size: 13px; color: #8b949e;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></span>
+      </div>
+    </td>
+  </tr>
+</table>
