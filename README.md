@@ -63,13 +63,13 @@
     </td>
     <td class="scratch-it-content" style="vertical-align: top;">
       <div style="padding: 16px 20px; margin-bottom: 12px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.4); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
-        <div style="font-size: 15px; font-weight: bold;">💡 Fun Fact</div>
+        <div style="font-size: 15px; font-weight: bold;">💡<b>Fun Fact</b></div>
         <div style="font-size: 13px;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</div>
       </div>
       <br>
       <div style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.4); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
-        <div style="font-size: 15px; font-weight: bold;">💬 Philosophy & Quote</div>
-        <div style="font-size: 13px;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></div>
+        <div style="font-size: 15px; font-weight: bold;">💬<b> Philosophy & Quote</b></div>
+        <div style="font-size: 13px;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br>— <em>Richard P. Feynman</em></div>
       </div>
     </td>
   </tr>
