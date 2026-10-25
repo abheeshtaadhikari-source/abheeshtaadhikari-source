@@ -65,15 +65,11 @@
   </div>
 
   <!-- Right: Vertical Stacked Boxes -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 14px; min-width: 280px;">
-    
-    <!-- Box 1: Fun Fact -->
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 14px; min-width: 280px;">    
     <div class="animated-card" style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(110, 118, 129, 0.3); background: rgba(110, 118, 129, 0.04);">
       <span style="font-size: 15px;"><b>💡 Fun Fact</b></span><br><br>
       <span style="font-size: 13px; color: #8b949e;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</span>
     </div>
-
-    <!-- Box 2: Philosophy & Quote -->
     <div class="animated-card" style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(110, 118, 129, 0.3); background: rgba(110, 118, 129, 0.04);">
       <span style="font-size: 15px;"><b>💬 Philosophy & Quote</b></span><br><br>
       <span style="font-size: 13px; color: #8b949e;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></span>
