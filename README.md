@@ -63,35 +63,15 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" style="border-collapse: separate; border-spacing: 12px;">
   <tr>
-    <td align="left" width="50%" style="padding: 16px; border-radius: 12px; background: rgba(110, 118, 129, 0.05);">
-      <b>💡 Fun Fact</b><br><br>
-      <sub>My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</sub>
+    <td align="left" width="50%" style="padding: 18px; border-radius: 12px; border: 1px solid rgba(110, 118, 129, 0.3); background: rgba(110, 118, 129, 0.04); vertical-align: top;">
+      <span style="font-size: 15px;"><b>💡 Fun Fact</b></span><br><br>
+      <span style="font-size: 13px; color: #8b949e;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</span>
     </td>
-    <td align="left" width="50%" style="padding: 16px; border-radius: 12px; background: rgba(110, 118, 129, 0.05);">
-      <b>💬 Philosophy & Quote</b><br><br>
-      <sub><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br>— <em>Richard P. Feynman</em></sub>
+    <td align="left" width="50%" style="padding: 18px; border-radius: 12px; border: 1px solid rgba(110, 118, 129, 0.3); background: rgba(110, 118, 129, 0.04); vertical-align: top;">
+      <span style="font-size: 15px;"><b>💬 Philosophy & Quote</b></span><br><br>
+      <span style="font-size: 13px; color: #8b949e;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></span>
     </td>
   </tr>
 </table>
-
-<style>
-  table {
-    border-collapse: separate;
-    border-spacing: 12px;
-    animation: fadeIn 1.2s ease-in-out;
-  }
-  td {
-    border: 1px solid rgba(110, 118, 129, 0.2);
-    transition: transform 0.2s ease, border-color 0.2s ease;
-  }
-  td:hover {
-    transform: translateY(-3px);
-    border-color: rgba(88, 166, 255, 0.6);
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(6px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
