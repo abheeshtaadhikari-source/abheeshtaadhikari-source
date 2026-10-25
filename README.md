@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=&logoColor=white" alt="Antigravity" />
 </p>
 
@@ -56,17 +57,38 @@
 
 ### 🎲 Scratch It!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwZnJvZDVzamczZTBpMHYyNTE1ZGo1c2I2MmtyZmVnYjNwdmE0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/baxh5Ctjs9pE9DWibw" width="100px" alt="Scratch It Sticker" />
+</div>
+
+<br>
+
 <table>
   <tr>
-    <td align="center" width="150px">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQwZnJvZDVzamczZTBpMHYyNTE1ZGo1c2I2MmtyZmVnYjNwdmE0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/baxh5Ctjs9pE9DWibw/giphy.gif" width="120px" alt="Scratch It Sticker" />
+    <td align="center" width="50%">
+      <details open>
+        <summary><b>💡 Fun Fact</b></summary>
+        <br>
+        <sub>My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</sub>
+      </details>
     </td>
-    <td>
-      <ul>
-        <li><strong>Pronoun:</strong> (She/her)</li>
-        <li><strong>Fun Fact:</strong> My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</li>
-        <li><strong>Quote:</strong> <em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em> — <em>Richard P. Feynman</em></li>
-      </ul>
+    <td align="center" width="50%">
+      <details open>
+        <summary><b>💬 Philosophy & Quote</b></summary>
+        <br>
+        <sub><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br>— <em>Richard P. Feynman</em></sub>
+      </details>
     </td>
   </tr>
 </table>
+
+<!-- Subtle CSS animation styling for modern GitHub markdown rendering -->
+<style>
+  details {
+    animation: fadeIn 1.2s ease-in-out;
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
