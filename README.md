@@ -56,21 +56,20 @@
 ---
 
 ## 🎲 Scratch It!
-
 <table width="100%" style="border-collapse: separate; border-spacing: 16px; margin-top: 10px;">
   <tr>
-    <!-- Left: Giphy Sticker -->
     <td align="center" width="160px" style="vertical-align: middle;">
       <img src="https://media.giphy.com/media/baxh5Ctjs9pE9DWibw/giphy.gif" width="140px" alt="Scratch It Sticker" />
     </td>
-        <td style="vertical-align: top;">
-            <div style="padding: 16px 20px; margin-bottom: 12px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.3); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
-        <span style="font-size: 15px;"><b>💡 Fun Fact</b></span><br><br>
-        <span style="font-size: 13px; color: #8b949e;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</span>
+    <td class="scratch-it-content" style="vertical-align: top;">
+      <div style="padding: 16px 20px; margin-bottom: 12px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.4); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+        <div style="font-size: 15px; font-weight: bold;">💡 Fun Fact</div>
+        <div style="font-size: 13px;">My brain runs an endless <code>while(true)</code> loop dedicated to refactoring messy processes and finding edge cases no one knew existed. I don’t believe in luck—just well-tested Plan B, C, D or more scripts running silently in the background.</div>
       </div>
-      <div style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.3); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
-        <span style="font-size: 15px;"><b>💬 Philosophy & Quote</b></span><br><br>
-        <span style="font-size: 13px; color: #8b949e;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></span>
+      <br>
+      <div style="padding: 16px 20px; border-radius: 12px; border: 1px solid rgba(88, 166, 255, 0.4); background: rgba(110, 118, 129, 0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);">
+        <div style="font-size: 15px; font-weight: bold;">💬 Philosophy & Quote</div>
+        <div style="font-size: 13px;"><em>“The first principle is that you must not fool yourself—and you are the easiest person to fool.”</em><br><br>— <em>Richard P. Feynman</em></div>
       </div>
     </td>
   </tr>
