@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Languages & Tech Tools
+### 🛠️ Technical Skills
 
 #### Languages
 <p align="left">
